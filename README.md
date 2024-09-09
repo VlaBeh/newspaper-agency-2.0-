@@ -20,6 +20,9 @@ Python 3.x
 Django 4.x
 PostgreSQL (or another database, but PostgreSQL is recommended)
 
+## Check it out!
+[Newspaper Agency project deployed to Render](https://newspaper-agency-ktwk.onrender.com)
+
 ### **Setup Instructions**
 
 #### Step 1: Clone the Repository
