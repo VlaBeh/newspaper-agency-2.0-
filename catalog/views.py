@@ -1,6 +1,3 @@
-from django.views.generic import ListView
-
-import genetic
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.http import HttpRequest, HttpResponse
