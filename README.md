@@ -2,7 +2,7 @@
 
 ## This is a Django-based application for tracking newspapers and the redactors responsible for their publication.
 
-## The system allows management of newspapers, topics, and redactors, ensuring that you always know who was responsible for each publication.**
+## The system allows management of newspapers, topics, and redactors, ensuring that you always know who was responsible for each publication.
 
 **Features**
 Manage Newspapers with titles, content, published dates, and topics.
