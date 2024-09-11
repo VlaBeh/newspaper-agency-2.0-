@@ -23,6 +23,8 @@ PostgreSQL (or another database, but PostgreSQL is recommended)
 ## Check it out!
 [Newspaper Agency project deployed to Render](https://newspaper-agency-ktwk.onrender.com)
 
+### You can also login!
+
 login: paul_joh
 password: X9NCJMan
 
