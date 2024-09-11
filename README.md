@@ -23,6 +23,9 @@ PostgreSQL (or another database, but PostgreSQL is recommended)
 ## Check it out!
 [Newspaper Agency project deployed to Render](https://newspaper-agency-ktwk.onrender.com)
 
+login: paul_joh
+password: X9NCJMan
+
 ### **Setup Instructions**
 
 #### Step 1: Clone the Repository
