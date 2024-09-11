@@ -11,6 +11,7 @@ class RedactorCreationForm(UserCreationForm):
 
 
 class NewsForm(forms.ModelForm):
+    published_date = forms.DateField(widget=forms.DateInput(attrs={"type": "date"}))
     redactor = forms.ModelMultipleChoiceField(queryset=get_user_model().objects.all(),
                                               widget=forms.CheckboxSelectMultiple,
                                               required=False
