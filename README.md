@@ -25,7 +25,7 @@ PostgreSQL (or another database, but PostgreSQL is recommended)
 
 ### You can also login!
 
-login: paul_joh
+username: paul_joh
 password: X9NCJMan
 
 ### **Setup Instructions**
